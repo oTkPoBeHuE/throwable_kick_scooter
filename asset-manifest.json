@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/throwable_kick_scooter/static/js/main.cc9454ed.chunk.js",
+    "main.js.map": "/throwable_kick_scooter/static/js/main.cc9454ed.chunk.js.map",
+    "runtime~main.js": "/throwable_kick_scooter/static/js/runtime~main.818c7699.js",
+    "runtime~main.js.map": "/throwable_kick_scooter/static/js/runtime~main.818c7699.js.map",
+    "static/css/2.266e55a5.chunk.css": "/throwable_kick_scooter/static/css/2.266e55a5.chunk.css",
+    "static/js/2.febb7274.chunk.js": "/throwable_kick_scooter/static/js/2.febb7274.chunk.js",
+    "static/js/2.febb7274.chunk.js.map": "/throwable_kick_scooter/static/js/2.febb7274.chunk.js.map",
+    "index.html": "/throwable_kick_scooter/index.html",
+    "precache-manifest.6cd74dfb00dbd6ceb1b42cdb05fc5d83.js": "/throwable_kick_scooter/precache-manifest.6cd74dfb00dbd6ceb1b42cdb05fc5d83.js",
+    "service-worker.js": "/throwable_kick_scooter/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/throwable_kick_scooter/static/css/2.266e55a5.chunk.css.map",
+    "static/media/scooter1.png": "/throwable_kick_scooter/static/media/scooter1.94328b3c.png",
+    "static/media/scooter2.png": "/throwable_kick_scooter/static/media/scooter2.a57067ba.png",
+    "static/media/scooter3.png": "/throwable_kick_scooter/static/media/scooter3.881e01f8.png",
+    "static/media/scooter4.png": "/throwable_kick_scooter/static/media/scooter4.bd53729d.png",
+    "static/media/scooter5.png": "/throwable_kick_scooter/static/media/scooter5.704480cb.png",
+    "static/media/scooter6.png": "/throwable_kick_scooter/static/media/scooter6.bd9c8aa0.png"
+  }
+}
